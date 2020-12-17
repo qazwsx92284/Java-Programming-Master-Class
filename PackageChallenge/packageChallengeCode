@@ -1,0 +1,8 @@
+Package Challenge 
+- writing 3 methods in a class called Series inside of PackageChallengeSeries project, and extract it as a .jar file. 
+- adding this .jar file into the external library, and using methods in another project(called PackageChallengeTest) 
+
+The 3 methods are 
+1. nSum(i): sum up all ith numbers
+2. factorial(i) : return ith factorial number
+3. fibonacci(i) : return ith fibonacci number
